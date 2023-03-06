@@ -6,6 +6,7 @@
 ---
 #### The chrome extention preview 
 <img src='./images/preview.png'>
+
 ---
 <img src='./images/preview1.png'>
 
