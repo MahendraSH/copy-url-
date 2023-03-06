@@ -45,6 +45,14 @@ localStorage.clear();
 ### 3) or u can give  the input and hit save
 
 ```
+
+### 4) use of JSON.stringify() and JSON.parse()
+```
+JSON.stringify(convert obj to string )
+```
+```
+JSON.parse( convert to string to obj)
+```
 we can use DOM and addevntlistner and then store in Window.localStorage
 ```
 ---
