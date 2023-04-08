@@ -57,8 +57,8 @@ we can use DOM and addevntlistner and then store in Window.localStorage
 ```
 ---
 #### The chrome extention preview 
-<img src='./images/preview.png'>
+![preview1]('./images/preview.png')
 
 ---
-<img src='./images/preview1.png'>
+![previw2]('./images/preview1.png')
 
